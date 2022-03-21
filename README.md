@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @domness
-- 👀 I’m interested in Swift, GCP, Node, TypeScript, VueJS, React and any new technologies/languages.
+- 👀 I’m interested in React Native, GCP, React, TypeScript, Node, Swift, VueJS and any new technologies/languages.
 - 🌱 I’m currently learning React Native, Solidity/Smart Contracts.
 
 <!---
